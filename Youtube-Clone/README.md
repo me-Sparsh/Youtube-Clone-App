@@ -14,7 +14,7 @@ This app consumes The Youtube Api to fetch and display a list of popular videos,
 
 ## Screenshots
 ### Splash/Home Screens
-<img src="/images/splashscreen.png" width="260">&emsp;
+<img src="Youtube-Clone/images/splashscreen.png" width="260">&emsp;
 <img src="/images/homescreen.png" width="260">
 
 ## Demo
