@@ -6,16 +6,11 @@ This app consumes The Youtube Api to fetch and display a list of popular videos,
 
 ## Prerequisite
 * To run the app successfully you need to create your own Google API KEY
-* Navigate to the `com.breens.youtubeclone.util.Constants.kt` file and put your own api key
+* Navigate to the `com.Sparsh.youtubeclone.util.Constants.kt` file and put your own api key
 ``
  const val KEY = "PUT YOUR OWN GOOGLE API KEY"
 ``
 * Here is the link to generate your [Google API KEY](https://developers.google.com/maps/documentation/javascript/cloud-setup)
-
-## Screenshots
-### Splash/Home Screens
-<img src="/images/splashscreen.png" width="260">&emsp;
-<img src="/images/homescreen.png" width="260">
 
 ## Demo
 https://user-images.githubusercontent.com/72180010/161577746-5d8e7c6e-c107-430d-94ce-306e50ca52d5.mp4
@@ -31,8 +26,4 @@ https://user-images.githubusercontent.com/72180010/161577746-5d8e7c6e-c107-430d-
 * Livedata - Notifies Observer objects in the UI when underlying data changes.
 
 ## Author Info
-* Twitter - [@BreensR](https://twitter.com/BreensR)
-* Linkedin - [LinkedIn: Breens Robert](https://www.linkedin.com/in/breens-mbaka/)
-
-## License
-[MIT](https://choosealicense.com/licenses/mit/)
+* Linkedin - [LinkedIn: Sparsh Mishra](https://www.linkedin.com/in/sparsh18/)
