@@ -12,11 +12,6 @@ This app consumes The Youtube Api to fetch and display a list of popular videos,
 ``
 * Here is the link to generate your [Google API KEY](https://developers.google.com/maps/documentation/javascript/cloud-setup)
 
-## Screenshots
-### Splash/Home Screens
-<img src="Youtube-Clone/images/splashscreen.png" width="260">&emsp;
-<img src="/images/homescreen.png" width="260">
-
 ## Demo
 https://user-images.githubusercontent.com/72180010/161577746-5d8e7c6e-c107-430d-94ce-306e50ca52d5.mp4
 
@@ -31,4 +26,4 @@ https://user-images.githubusercontent.com/72180010/161577746-5d8e7c6e-c107-430d-
 * Livedata - Notifies Observer objects in the UI when underlying data changes.
 
 ## Author Info
-* Linkedin - [LinkedIn: Breens Robert](https://www.linkedin.com/in/breens-mbaka/)
+* Linkedin - [LinkedIn: Sparsh Mishra](https://www.linkedin.com/in/sparsh18/)
